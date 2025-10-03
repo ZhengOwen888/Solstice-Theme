@@ -1,0 +1,21 @@
+{
+  "name": "solstice",
+  "displayName": "Solstice",
+  "description": "Solstice theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solstice",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Solstice-color-theme.json"
+      }
+    ]
+  }
+}
